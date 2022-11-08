@@ -1,0 +1,15 @@
+#NotPage{
+    text-align: center;
+    justify-content: center;
+}
+.back-btn{ 
+    margin-top: 20px;
+    padding: 10px 20px;
+    border-color: transparent;
+    background-color: transparent; 
+    outline: none;
+}
+.back-btn:hover{ 
+    border-color: black;
+    background-color: red; 
+}
